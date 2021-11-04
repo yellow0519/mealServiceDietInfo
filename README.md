@@ -1,4 +1,4 @@
-# Seoul Bus Sensor(서울버스)
+#  mealServiceDietInfo 학교급식정보
 
 ![HAKC)][hakc-shield]
 ![HACS][hacs-shield]
