@@ -1,1 +1,1 @@
-""" Seoul Bus Sensor for Home Assistant """
+""" mealServiceDietInfo Sensor for Home Assistant """
